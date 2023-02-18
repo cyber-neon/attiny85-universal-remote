@@ -1,4 +1,5 @@
 //creator Circuit_Cyber
+// upload it as attiny85 8mhz
 
 
 
